@@ -1,0 +1,11 @@
+[user]
+	name = Cam Lavoie
+	email = lavo0194@algonquinlive.com
+[unser]
+	email = lavo0194@algonquinlive.com\n\n  git config --global user.email lavo0194@algonquinlive.com
+[credential]
+	helper = wincred
+[color]
+	ui = auto
+[core]
+	ignorecase = false
